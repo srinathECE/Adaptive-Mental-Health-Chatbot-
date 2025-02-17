@@ -1,5 +1,5 @@
 // API configuration
-const API_KEY = "AIzaSyCdJ5-oYp53i96QWCWqWlaNtWHRQNrIriw"; // Replace with your valid Google Gemini API key
+const API_KEY = ""; // Replace with your valid Google Gemini API key
 const GEMINI_API_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=${API_KEY}`;
 
 // State variables
